@@ -1,4 +1,4 @@
-## i'm Jeová Jr Aguiar
+## i'm Aguiar
  <div>
   <a href="https://github.com/JeovaJrAguiar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeovajraguiar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
