@@ -3,7 +3,8 @@
  aguiar$ I have been more focused back-end development and a little of front-end in my last experiences
  aguiar$ I'm an enthusiast to learn new technologies.
 ```
-
+##
+My US resume: https://1drv.ms/w/s!AvIMFmuDrGlvb4mDV33WVias3ko?e=gCHvaE
  ##
 
 <div>
