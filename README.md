@@ -4,7 +4,7 @@
  aguiar$ i'm an enthusiast to learn new technologies.
 ```
 ##
-My US resume: https://1drv.ms/w/s!AvIMFmuDrGlvb4mDV33WVias3ko?e=gCHvaE
+My US resume: [https://1drv.ms/w/s!AvIMFmuDrGlvb4mDV33WVias3ko?e=gCHvaE](https://bityli.com/7Uix0)
  ##
 
 <div>
