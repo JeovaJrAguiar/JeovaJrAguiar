@@ -1,5 +1,4 @@
 ```
- aguiar$ nice to meet u :)
  aguiar$ i have been more focused back-end development and a little of front-end in my last experiences
  aguiar$ i'm an enthusiast to learn new technologies.
 ```
