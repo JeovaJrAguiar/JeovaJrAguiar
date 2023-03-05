@@ -1,6 +1,8 @@
 ```
- aguiar$ i have been more focused back-end development and a little of front-end in my last experiences
- aguiar$ i'm an enthusiast to learn new technologies.
+Tenho experiência em desenvolvimento em front-end e back-end e estou apto a trabalhar em equipe para resolver desafios técnicos complexos. 
+Tenho afinidade para liderança e gerenciamento de pessoas. 
+Familiaridade com frameworks baseados em JavaScript, Arquitetura de Microsserviços e API's. 
+Já trabalhei com bancos de dados relacionais e não-relacionais.
 ```
 ##
 My US resume: https://1drv.ms/w/s!AvIMFmuDrGlvb4mDV33WVias3ko?e=gCHvaE
