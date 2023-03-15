@@ -4,8 +4,6 @@ Tenho afinidade para liderança e gerenciamento de pessoas.
 Familiaridade com frameworks baseados em JavaScript, Arquitetura de Microsserviços e API's. 
 Já trabalhei com bancos de dados relacionais e não-relacionais.
 ```
-##
-My US resume: https://1drv.ms/w/s!AvIMFmuDrGlvb4mDV33WVias3ko?e=gCHvaE
  ##
 
 <div>
