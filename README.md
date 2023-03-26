@@ -1,5 +1,5 @@
 ```
-Com experiência em desenvolvimento em front-end e back-end e estou apto a trabalhar em equipe para resolver desafios técnicos complexos. 
+Com experiência em desenvolvimento em front-end e back-end, estou apto a trabalhar em equipe para resolver desafios técnicos complexos. 
 Tenho afinidade para liderança e gerenciamento de pessoas. 
 Familiaridade com frameworks baseados em JavaScript, Arquitetura de Microsserviços e API's. 
 Já trabalhei com bancos de dados relacionais e não-relacionais.
