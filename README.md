@@ -1,8 +1,8 @@
 ```
-Com experiência em desenvolvimento em front-end e back-end, estou apto a trabalhar em equipe para resolver desafios técnicos complexos. 
-Tenho afinidade para liderança e gerenciamento de pessoas. 
-Familiaridade com frameworks baseados em JavaScript, Arquitetura de Microsserviços e API's. 
-Já trabalhei com bancos de dados relacionais e não-relacionais.
+People Management, Criative, Communication, Coordenation and Negociation.
+C, Java, JS, C#, SQL, Python and my chellenge is COBOL today.
+- Academic: Volunteering in students programns (RUMA), Event Organizer( Tecnology and Inovation Forum ) in my campus, Scholarship in Microcontrolers.
+- Professional: 1.7 years in Jr Software Engineer and at the moment I have a small software company.
 ```
  ##
 
