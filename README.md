@@ -1,6 +1,6 @@
 ```
 People Management, Criative, Communication, Coordenation and Negociation.
-C, Java, JS, C#, SQL, Python and my chellenge is COBOL today.
+C, Java, JS, C#, SQL, Python and my chellenge is Assembly today.
 - Academic: Volunteering in students programns (RUMA), Event Organizer( Tecnology and Inovation Forum ) in my campus, Scholarship in Microcontrolers.
 - Professional: 1.7 years in Jr Software Engineer and at the moment I have a small software company.
 ```
