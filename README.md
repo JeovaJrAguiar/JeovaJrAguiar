@@ -1,7 +1,7 @@
 ```
-People Management, Criative, Communication.
+People Management, Communication.
 C, Java, JS, C#, SQL, Python and Assembly.
-- Academic: Volunteering in students programns (RUMA), Event Organizer( Tecnology and Inovation Forum ) in my campus, Scholarship in Microcontrolers.
+- Academic: Volunteering in students programns (RUMA), Event Organizer( Tecnology and Inovation Forum of Crateus ) in my campus, Scholarship in Microcontrolers.
 - IBMist.
 ```
  ##
