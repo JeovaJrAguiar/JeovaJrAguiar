@@ -1,8 +1,11 @@
 ```
-People Management, Communication.
-C, Java, JS, C#, SQL, Python and Assembly.
-- Academic: Volunteering in students programns (RUMA), Event Organizer( Tecnology and Inovation Forum of Crateus ) in my campus, Scholarship in Microcontrolers.
-- IBMist.
+Work: IBM - Brasil
+Soft Skills: People Management, Communication.
+Languages: English, Brazilian Portuguese.
+Machine Languages: Assembly, C, Java, JS, C#, SQL, Python.
+Academic: Currently working towards a B.Sc. Computer Science degree at Universidade Federal do Ceará.
+Volunteers UFC: Students Programns - RUMA, Event Organizer (Tecnology and Inovation Forum of Crateus), Scholarship in Microcontrolers.
+Volunteers IBM: Technical Leadership Community (TCL), Brazilian Career Conversations, Academic Embassadors.
 ```
  ##
 
