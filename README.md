@@ -2,7 +2,7 @@
 Work: IBM - Brasil
 Soft Skills: People Management, Communication.
 Languages: English, Brazilian Portuguese.
-Machine Languages: Assembly, C, Java, JS, C#, SQL, Python.
+Machine Languages: Assembly, C, Java, JS, C#, SQL, Python, Shell Script.
 Academic: Currently working towards a B.Sc. Computer Science degree at Universidade Federal do Ceará.
 Volunteers UFC: Students Programns - RUMA, Event Organizer (Tecnology and Inovation Forum of Crateus), Scholarship in Microcontrolers.
 Volunteers IBM: Technical Leadership Community (TCL), Brazilian Career Conversations, Academic Embassadors.
