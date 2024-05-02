@@ -21,3 +21,8 @@ Volunteers IBM: Technical Leadership Community (TCL), Brazilian Career Conversat
  <a href="mailto:aguiarjr897@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aguiar897" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+
+##
+
+“A cada evento em nossas vidas, milhares de outros podem ou não acontecer. Numa fração de segundos, a vida muda.” Esse é o Efeito Borboleta. A teoria do caos, ou efeito borboleta, é um conceito que afirma que pequenas mudanças em um sistema podem ter grandes efeitos em outro sistema distante. Em outras palavras, o bater de asas de uma simples borboleta em um lugar pode ter um efeito dominó que pode levar a um tornado em outro lugar do mundo. Um fenômeno observado por Edward Lorenz, em 1961. Lorenz era um meteorologista.
+- winderson nunes, 2024.
