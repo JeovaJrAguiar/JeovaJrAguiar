@@ -1,5 +1,5 @@
 ```
-Work: IBM - Brazil
+Work: Full Stack Developer, IBM - Brazil
 Soft Skills: People Management, Communication.
 Languages: Portuguese-BR, English.
 Machine Languages: Python, Java, JS, C, Assembly, SQL,  C#, Shell Script.
